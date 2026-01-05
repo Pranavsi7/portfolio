@@ -1,4 +1,4 @@
-export const skills = [
+export const Skills = [
   {
     category: "Languages",
     items: ["Java", "HTML", "CSS", "JavaScript", "Python"]
